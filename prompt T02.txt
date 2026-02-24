@@ -1,0 +1,7 @@
+//Dasmauli Sormin
+Prompt Chat Gpt
+dari soal ini dan pola yang seperti ini bagaimana cara mengerjakannya?
+coba buat kan aku code dengan permasalahan diatas  dengan bahasa java
+ini udah sesuai pola cowo cewe harus sesuai pola dia
+C:\Users\user\OneDrive\Documents\GitHub\quiz1-pbo-DasmauliSormin\bin>javac src/model/*.java src/driver/*.java -d bin error: Invalid filename: src/model/*.java Usage: javac <options> <source files> use --help for a list of possible options C:\Users\user\OneDrive\Documents\GitHub\quiz1-pbo-DasmauliSormin\bin> cara mengatasi ini
+gimana cara code ini agar dapat berjalan dan gimana cara mengcompile dengan bener
