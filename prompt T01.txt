@@ -1,0 +1,10 @@
+//Dasmauli Sormin 
+Prompt Chat GPT
+tolong dulu jelaskan aku mengenai soal ini dan bagai mana mengerjakannya
+coba buat kan kedalam java codenya dan harus sesuai outputnya kayak gini nanti model nya
+inikan make switch kalau pake if els bisa gak?
+gabungkan ini dengan code ini
+buat diskon nya itu kelipatan seratus ribu ya dan juga di outputnya itu sesuaikan sama yang tadi aku kasih format nya seperti ini
+ini berikut gambar yang diperlukan buat melengkapi code nya
+coba buat kan kedalam java codenya dan harus sesuai outputnya kayak gini nanti model nya
+done
