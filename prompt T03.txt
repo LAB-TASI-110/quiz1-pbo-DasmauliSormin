@@ -1,0 +1,6 @@
+// Dasmauli Sormin
+Prompt Chat Gpt
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del. buat kan dulu ini
+buat kan aku codenya dan contoh input dan outputnya versi javanya
+jadi kalau ini sampe brpa kilo di tampung??
+ini kenapa? (karna terjadi error)
